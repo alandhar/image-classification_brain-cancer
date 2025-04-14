@@ -68,7 +68,7 @@ submission/
 
 ## Hasil Evaluasi
 
-- Akurasi test set: 91%
+- Akurasi test set: 87%
 - F1-score setiap kelas tersedia melalui scikit-learn
 - Visualisasi: grafik akurasi & loss
 
